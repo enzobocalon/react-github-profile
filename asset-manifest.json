@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/enzobocalon/react-github-profile.git/static/css/main.21ea4fba.css",
+    "main.js": "/enzobocalon/react-github-profile.git/static/js/main.b6350778.js",
+    "index.html": "/enzobocalon/react-github-profile.git/index.html",
+    "main.21ea4fba.css.map": "/enzobocalon/react-github-profile.git/static/css/main.21ea4fba.css.map",
+    "main.b6350778.js.map": "/enzobocalon/react-github-profile.git/static/js/main.b6350778.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21ea4fba.css",
+    "static/js/main.b6350778.js"
+  ]
+}
