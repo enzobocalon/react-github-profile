@@ -5,7 +5,6 @@ import './ProfileCard.css'
 import { MdDoubleArrow } from 'react-icons/md'
 
 const ProfileCard = ({user}) => {
-    console.log(user)
     return (
         <>
         <div className="container">
