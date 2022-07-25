@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 const API_URL = 'https://api.github.com'
 
 const searchProfile = async (id) => {
